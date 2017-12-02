@@ -48,6 +48,7 @@ int main (int argc, char * argv[]) {
     
     //test to see if git is working
     //push from macbook to git test
+    //macmini back to git again
     
 }//end main
 
